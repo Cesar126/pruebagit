@@ -3,3 +3,4 @@ ordenar en forma acedente
 orden 1
 orden 2
 codificando c++
+codificando funcion para imprimir los resultados
