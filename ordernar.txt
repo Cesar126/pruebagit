@@ -1,2 +1,5 @@
 ingresar el vector
 ordenar en forma acedente 
+orden 1
+orden 2
+codificando c++
